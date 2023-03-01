@@ -1,0 +1,26 @@
+{
+  "students": [
+    {
+      "name": "Quennie Ann C. Baculio",
+      "age": 22,
+      "quotes": "You can't predict what happen next."
+    },
+    {
+      "name": "Quennie Ann Kenny",
+      "age": 21,
+      "quotes": "Don't stop when you're tired, Stop when you'er done."
+    }
+  ],
+  "studentinfo": [
+    {
+      "classsection": "BSIT 3A",
+      "sectioncode": "T221",
+      "buksuemail": "quennieann@buksu.edu.ph"
+    },
+    {
+      "classsection": "Section B",
+      "sectioncode": "T1310",
+      "buksuemail": "cuizonbaculiog@buksu.edu.ph"
+    }
+  ]
+}
