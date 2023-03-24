@@ -1,16 +1,16 @@
 {
   "students": [
     {
-      "name": "Name: Quennie Ann C. Baculio",
-      "age": "Age" 22,
-      "quotes": " Quotes: You can't predict what happen next."
+      "name": "Quennie Ann C. Baculio",
+      "age": 22,
+      "quotes": "You can't predict what happen next."
       }
     ],
     "studentinfo": [
    {
-      "classsection": "Section: Section A",
-      "sectioncode": "Section Code: T221",
-      "buksuemail": "Email: 190110425@student.buksu.edu.ph"
+      "classsection": "Section A",
+      "sectioncode": "T221",
+      "buksuemail": "190110425@student.buksu.edu.ph"
     }
   ]
 }
